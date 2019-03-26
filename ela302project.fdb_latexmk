@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1553594691 "ela302project.tex" "ela302project.pdf" "ela302project" 1553594691
+["pdflatex"] 1553594823 "ela302project.tex" "ela302project.pdf" "ela302project" 1553594823
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1550406775 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1550406775 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1550406775 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -36,9 +36,9 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1553115959 3106252 d5255ed7fd6ec6ea7699581e9a54cb46 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1553115954 7919196 7a322b2e54a942dd34a63c3300d3cebd ""
   "IEEEtran.cls" 1553593341 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "ela302project.aux" 1553594691 1108 803541d2492db27ca236eaf8ff58f98a ""
-  "ela302project.tex" 1553594691 3013 394e0879657ee2b707a658806f3be371 ""
+  "ela302project.aux" 1553594823 1299 f50552a825a015b5cf6ae562a5ddeab2 ""
+  "ela302project.tex" 1553594823 3052 04eabb1fb11ec8082a54d7e84bfc590a ""
   (generated)
+  "ela302project.pdf"
   "ela302project.aux"
   "ela302project.log"
-  "ela302project.pdf"
