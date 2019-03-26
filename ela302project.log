@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.20)  26 MAR 2019 11:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.20)  26 MAR 2019 11:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -134,13 +134,13 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 -- Lines per column: 56 (exact).
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 55.
+(Font)              <7> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 55.
+(Font)              <5> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 81.
+(Font)              <8> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 81.
+(Font)              <6> on input line 88.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -172,7 +172,7 @@ onts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr
 /share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on ela302project.pdf (1 page, 81080 bytes).
+Output written on ela302project.pdf (1 page, 81148 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
