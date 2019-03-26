@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1553523217 "ela302project.tex" "ela302project.pdf" "ela302project" 1553523217
+["pdflatex"] 1553593164 "ela302project.tex" "ela302project.pdf" "ela302project" 1553593164
   "/etc/texmf/web2c/texmf.cnf" 1540403189 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -17,6 +17,10 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1480098701 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1480098701 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1480098701 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1480098733 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1480098733 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1480098733 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1480098733 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1480098746 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb" 1480098746 44656 0cbca70e0534538582128f6b54593cca ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1480098746 46026 6dab18b61c907687b520c72847215a68 ""
@@ -37,9 +41,9 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1550420556 125883 5a8e8cee8831b673b8567a1d9242290b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1550420557 724918 12f0663fb33b6c5644668c3aed318696 ""
   "IEEEtran.cls" 1553523041 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "ela302project.aux" 1553523217 384 e29b1648f5b75d885bf7022f6f62cbb8 ""
-  "ela302project.tex" 1553523204 1612 12e722509debe990fab5000661a486bb ""
+  "ela302project.aux" 1553593164 452 a2b0d3ae90ef04e3da7294a05e382ba5 ""
+  "ela302project.tex" 1553593160 1978 8d5f5cf440395f2aab994dd6e9cbce3b ""
   (generated)
-  "ela302project.pdf"
   "ela302project.aux"
   "ela302project.log"
+  "ela302project.pdf"
