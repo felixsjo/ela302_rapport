@@ -7,93 +7,33 @@
 \begin{document}
 
 \title{En resa mot Svartåns djupa mörker}
-
-% author names and affiliations
-% use a multiple column layout for up to three different
-% rdalebsaffiliations
 \author{\IEEEauthorblockN{Felix Sjöqvist}
-    \IEEEauthorblockA{Mälardalen University\\
+    \IEEEauthorblockA{MDH - School of innovation, Design and Technology\\
         Västerås, Sweden\\
         Email: fst17001@student.mdh.se}
 \and
     \IEEEauthorblockN{Olle Olofsson}
-    \IEEEauthorblockA{Mälardalen University\\
+    \IEEEauthorblockA{MDH - School of innovation, Design and Technology\\
         Västerås, Sweden\\
         Email: oon17003@student.mdh.se}
 }
 
-% make the title area
 \maketitle
+\input{abstract.tex}
+\input{introduction.tex}
+\input{hardware.tex}
+\input{software.tex}
+\input{method.tex}
+\input{results.tex}
+\input{conclusion.tex}
+\input{discussion.tex}
 
-% As a general rule, do not put math, special symbols or citations
-% in the abstract
-
-\begin{abstract}
-The abstract goes here.
-\end{abstract}
-
-\section{Introduction}
-% no \IEEEPARstart
-\textit{Explain the subject. What was i studying? Why was this topic important to investigate? What did we know about the topic before I did this study? How will this study dvance new knowledge or new ways of understanding?}
-\section{State of the Art}
-\textit{The latest and most sophisticated or advanced stage of a technology or science. State of the art if the foundation for determining the methid and methodlogy.}
-\section{Hypothesis}
-\textit{In scienc, a hypothesis is an idea or explanation that you then tesr through study and experimentation. Outside science, a theory or quess can also be called a hypothesis}
-\section{Problem formulation}
-\textit{The problm formulation is defined upon hypothesis to define the problem or problems for the thesis}
-\section{Research questions}
-\textit{A research question guides and centers your research. It should be clear and focusd, as well as synthesize multiple sources to present your unque argument. RQ should be furmulat}
-%Three & Four\\
-\section{Hardware}
-\begin{itemize}
-        \item MyDAQ
-        \item Voltera Printer
-\end{itemize}
-\section{Software}
-\begin{itemize}
-        \item Multisim
-        \item Ultiboard
-        \item Voltera
-\end{itemize}
-\section{Method}
-\textit{How will you test the hypothesis? What methods will be used from the knowledge learned in state of the art?}
-\\The PCB was tested using the National Instruments \textit{myDAQ}, by imposing a square wave with following characteristics:
-\begin{itemize}
-        \item Constant 5V amplitude.
-        \item Constant 2.5V positive offset.
-        \item Variable frequency $100Hz-10kHz$
-        \item Variable duty-cycle $10\% - 90\%$
-\end{itemize}
-and then measuring the output
-\section{Results}
-\textit{What are the results your method have given?}
-
-\section{Conclusion}
-\textit{Have you provn or disproven the hypothesis? If not, why?}
-\section{Discussion}
-
-\section{Future work}
-\textit{What is the best way to continue the work?}
-% conference papers do not normally have an appendix
-
-
-% use section* for acknowledgment
-\section*{Acknowledgment}
-
-
-%The authors would like to thank...
 \begin{thebibliography}{1}
-
 \bibitem{IEEEhowto:kopka}
 H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
   0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
-
 \end{thebibliography}
 
-
-
-
-% that's all folks
 \end{document}
 
 
