@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1553700297 "ela302project.tex" "ela302project.pdf" "ela302project" 1553700298
+["pdflatex"] 1553713518 "ela302project.tex" "ela302project.pdf" "ela302project" 1553713518
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1550406775 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1550406775 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1550406775 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -33,11 +33,11 @@
   "abstract.tex" 1553698778 9 103ab532ff2b06930095a42cd81ee1fc ""
   "conclusion.tex" 1553699609 87 98da812e4421ae1a710ccd023a9e26c1 ""
   "discussion.tex" 1553699626 21 bc2321953236e49c0a923bd0e83c84e8 ""
-  "ela302project.aux" 1553700298 1315 a26fe9f24c3bafcf5ab512d7b0b20d42 ""
-  "ela302project.tex" 1553700297 1000 36f49a7d1e0b5c5d2d409a872c5f6a57 ""
+  "ela302project.aux" 1553713518 1316 3829f8e6e0b8ddee4209e7691afa7045 ""
+  "ela302project.tex" 1553713518 1000 36f49a7d1e0b5c5d2d409a872c5f6a57 ""
   "hardware.tex" 1553699097 99 548844544723638526076692defbc9d8 ""
-  "introduction.tex" 1553699040 1250 479dfefa9ae0d3ee8e8b507935bf0266 ""
-  "method.tex" 1553699532 497 93b6430f20e0c62465b15982dc854fa4 ""
+  "introduction.tex" 1553713515 1739 8ac3fe9778aa7b183eabb4294d62fbe0 ""
+  "method.tex" 1553704903 695 4fee6feb5934b9571f8afe22040a7d26 ""
   "results.tex" 1553699583 72 3515f9f76ff623f589af51dc147ad97b ""
   "software.tex" 1553699413 118 efb4078374ce653f36e6488a030b6a29 ""
   (generated)
