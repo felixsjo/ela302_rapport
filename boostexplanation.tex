@@ -1,0 +1,10 @@
+\section{Controlling output voltage}
+The output voltage is controlled using the duty cycle of the input signal. The duty cycle is the fraction of the period in which the signal is active, and therefore takes on values between 0 and 1. A low duty cycle, say 0.25 will produce a low boost effect. This is because, the lower the time the mosfet is on i.e.\ letting current flow through it, the lower the time the inductor's magnetic field is charging up which boosts the output voltage during the signal off time. If the duty cycle instead were to be 0.75, the inductor would have a larger magnetic field to boost the output voltage. The theoretical output voltage can be expressed as the input voltage and the ducy cycle d:
+\begin{equation}
+    V_{out}=V_{in}/(1-d)
+\end{equation}
+The output voltage is also dependant on the frequency. Since there are inductive and capacative components in the circuit, the toal impedance is changing with the frequency. It is hard to know the actual total impedance of the circuit, and therefore finding an optimal frequency, but a good estimation of optimal frequency can be done by calculating the resonance frequency of the inductor and capatitor. This can be done using the following formula:
+\begin{equation}
+    f=1/(2\pi{}\sqrt{LC})
+\end{equation}
+In this case, with the components of this project, the resonance frequency is 5032Hz, which would make that a good starting point if one tried to maximize the voltage output.
