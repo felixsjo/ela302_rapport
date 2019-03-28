@@ -58,10 +58,16 @@ INPUT abstract.tex
 INPUT introduction.tex
 INPUT introduction.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
+INPUT boostexplanation.tex
+INPUT boostexplanation.tex
 INPUT hardware.tex
 INPUT hardware.tex
 INPUT software.tex
 INPUT software.tex
+INPUT components.tex
+INPUT components.tex
+INPUT manufacture.tex
+INPUT manufacture.tex
 INPUT method.tex
 INPUT method.tex
 INPUT results.tex

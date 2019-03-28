@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.20)  27 MAR 2019 20:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.20)  28 MAR 2019 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -138,12 +138,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 10.
-) (./hardware.tex) (./software.tex) (./method.tex) (./results.tex) (./conclusio
-n.tex) (./discussion.tex)
+) (./boostexplanation.tex) (./hardware.tex) (./software.tex) (./components.tex)
+(./manufacture.tex) (./method.tex) (./results.tex) (./conclusion.tex) (./discus
+sion.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 36.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -160,8 +161,8 @@ Before submitting the final camera ready copy, remember to:
 
 ] (./ela302project.aux) ) 
 Here is how much of TeX's memory you used:
- 1104 strings out of 492616
- 19930 string characters out of 6135177
+ 1113 strings out of 492616
+ 20071 string characters out of 6135177
  88519 words of memory out of 5000000
  5054 multiletter control sequences out of 15000+600000
  35447 words of font info for 69 fonts, out of 8000000 for 9000
@@ -173,7 +174,7 @@ sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf
 e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr
 /share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ela302project.pdf (1 page, 68903 bytes).
+Output written on ela302project.pdf (1 page, 68910 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
