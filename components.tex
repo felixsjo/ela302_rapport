@@ -1,0 +1,18 @@
+\section{Choice of components}
+The choice of componets was experimentally produced though the starting point were an erlier lab where a working boost converter was already designed. This design was of course not directly applicable to our project since this was not a surface mounted design. Different components were tested and simulated untill a desireble result was reached, see Tab \ref{tab:comp}. Simulations were done using a $50\Omega$ resistor in series before the inductor to simulate a real inductor, which has a resistance. While small components often are desireble, the size can compromie circuit stability, espesially regarding capacitors. Therefore a smaller capacitor was not necessary.
+\begin{table}[h]
+    \begin{center}
+        \caption{Choice of components}
+        \label{tab:comp}
+        \begin{tabular}{c|c|c|c}
+            Component & Name & Value & Footprint (\%)\\
+            \hline
+            Capacitor & - & 1uF & CAPC2012X145N\\
+            Inductor & - & 1mH & INDC4520X140N\\
+            MOSFET & 2N7002K & - & SOT95P230X110-3N\\
+            Diode & D1N4148 & - & SOD2513X110AN\\
+            Resistor & 5000 & 4700\Omega & RESC1608X63N\\
+            Pin strip & Pin strip & 2x7 & Custom\\
+        \end{tabular}
+    \end{center}
+\end{table}
