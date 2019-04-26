@@ -1,0 +1,412 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.20)  28 MAR 2019 23:42
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**titlepage.tex
+(./titlepage.tex
+LaTeX2e <2018-12-01>
+
+./titlepage.tex:35: LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \begin{titlepage}
+                       % Suppresses displaying the page number on the title ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./titlepage.tex:38: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     \center
+                 % Centre everything on the page
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 38--38
+[] 
+ []
+
+./titlepage.tex:44: Undefined control sequence.
+<recently read> \LARGE 
+                       
+l.44     \textsc{\LARGE Mälardalen University}
+                                               \\[1.5cm] % Main heading such...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (62.31079pt too wide) in paragraph at lines 44--44
+ \OT1/cmr/m/sc/10 M[]alardalen 
+ []
+
+
+Overfull \hbox (21.07207pt too wide) in paragraph at lines 44--44
+ \OT1/cmr/m/sc/10 Uni- 
+ []
+
+
+Overfull \hbox (21.511pt too wide) in paragraph at lines 44--44
+ \OT1/cmr/m/sc/10 ver- 
+ []
+
+
+Overfull \hbox (19.84433pt too wide) in paragraph at lines 44--44
+ \OT1/cmr/m/sc/10 sity 
+ []
+
+./titlepage.tex:46: Undefined control sequence.
+<recently read> \Large 
+                       
+l.46     \textsc{\Large ELA302}
+                               \\[0.5cm] % Major heading such as course name
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.97183pt too wide) in paragraph at lines 46--46
+ []\OT1/cmr/m/sc/10 ELA302 
+ []
+
+./titlepage.tex:48: Undefined control sequence.
+<recently read> \large 
+                       
+l.48     \textsc{\large Elektroniksystem}
+                                         \\[0.5cm] % Minor heading such as c...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (92.30505pt too wide) in paragraph at lines 48--48
+ []\OT1/cmr/m/sc/10 Elektroniksystem 
+ []
+
+./titlepage.tex:56: Undefined control sequence.
+l.56     {\huge
+               \bfseries A High Grade Inducing, Faboulusly Interesting Shall...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (8.6944pt too wide) in paragraph at lines 56--56
+ []\OT1/cmr/bx/n/10 A 
+ []
+
+
+Overfull \hbox (24.3332pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 High 
+ []
+
+
+Overfull \hbox (31.0276pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 Grade 
+ []
+
+
+Overfull \hbox (14.58325pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 In- 
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 duc- 
+ []
+
+
+Overfull \hbox (18.52768pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 ing, 
+ []
+
+
+Overfull \hbox (54.09828pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 Faboulusly 
+ []
+
+
+Overfull \hbox (14.58325pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 In- 
+ []
+
+
+Overfull \hbox (18.31242pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 ter- 
+ []
+
+
+Overfull \hbox (18.1124pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 est- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (42.32614pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 Shallow- 
+ []
+
+
+Overfull \hbox (23.0346pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 Dive 
+ []
+
+
+Overfull \hbox (20.65266pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 Into 
+ []
+
+
+Overfull \hbox (32.84148pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 Boost- 
+ []
+
+
+Overfull \hbox (50.36089pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 Converter 
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 Tech- 
+ []
+
+
+Overfull \hbox (19.16656pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 nol- 
+ []
+
+
+Overfull \hbox (17.56935pt too wide) in paragraph at lines 56--56
+ \OT1/cmr/bx/n/10 ogy 
+ []
+
+./titlepage.tex:66: Undefined control sequence.
+l.66 			\large
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no V in font nullfont!
+LaTeX Font Info:    Try loading font information for +cmr on input line 69.
+LaTeX Font Info:    No file cmr.fd. on input line 69.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 69.
+
+./titlepage.tex:69: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.69             Vä
+                    sterås, Sweden\\
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 69.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 72.
+./titlepage.tex:76: Undefined control sequence.
+l.76 			\large
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (3276.74998pt too wide) in paragraph at lines 64--83
+ []$[]$ 
+ []
+
+
+Overfull \hbox (3276.74998pt too wide) in paragraph at lines 64--83
+ []$ 
+ []
+
+./titlepage.tex:94: Undefined control sequence.
+l.94 	{\large
+             \today} % Date, change the \today to a set date if you want to ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlepage.tex:94: Undefined control sequence.
+l.94 	{\large\today
+                   } % Date, change the \today to a set date if you want to ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlepage.tex:107: LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 \end{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> titlepage.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 29 strings out of 492616
+ 355 string characters out of 6135177
+ 59045 words of memory out of 5000000
+ 4038 multiletter control sequences out of 15000+600000
+ 4249 words of font info for 16 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 20i,3n,18p,177b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
